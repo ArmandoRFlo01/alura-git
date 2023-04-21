@@ -1,0 +1,23 @@
+[33mcommit ab6a912c51210132eebc47728b61d6accd78ce0a[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Armando <arf.arq@gmail.com>
+Date:   Fri Apr 21 10:09:13 2023 -0600
+
+    Modificando el titulo
+
+[33mcommit 7722b23c5a1cfb15d345973d19cca01a43ca8ab6[m[33m ([m[1;31mservidorlocal/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Armando Ruiz <arf.arq@gmail.com>
+Date:   Thu Apr 20 12:50:13 2023 -0600
+
+    Renombrando curso de integración continua
+
+[33mcommit a4e7e3ac5b7220646a1f7b78176ba4da2d12c75b[m
+Author: Armando <arf.arq@gmail.com>
+Date:   Thu Apr 20 12:15:56 2023 -0600
+
+    agregando gitignore
+
+[33mcommit 0d9ce9004dd9ae9cb962715aacf89de0bd16b705[m
+Author: Armando Ruiz <arf.arqmail.com>
+Date:   Thu Apr 20 11:50:51 2023 -0600
+
+    Creando archivo index.html con lista de cursos
